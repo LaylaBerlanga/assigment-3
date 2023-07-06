@@ -1,0 +1,20 @@
+body {
+    background-color: #26547C; font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h1 {color: #EF476F;}
+  h2 {color: #EF476F}
+
+  a:visited {color:#B8B8F3}
+  a:link {color: pink;}
+
+  table,
+  td {
+      border: 1px solid pink;
+  }
+  
+  thead,
+  tfoot {
+      
+      color: #EF476F;
+  }

@@ -1,0 +1,17 @@
+body {
+    background-color: #26547C; color: pink;
+  }
+  a{ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-style: italic; font-weight: bold; color: pink;}
+  
+  a:hover {
+    color: #06D6A0;
+  }
+
+  
+
+  img {
+    width: 500px;
+    border: 4px solid pink;
+    border-radius: 10%;
+  }
+
